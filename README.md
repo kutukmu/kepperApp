@@ -26,11 +26,11 @@ To add new item to list fist write the title of the item and then content of ite
 
 #### Built With
 
-*[NPM](https://www.npmjs.com/)
-*[React Js](https://reactjs.org/docs/getting-started.html)
-*[Node Js](https://nodejs.org/en/)
-*[Material UI] (https://material-ui.com/)
+⋅⋅* [NPM](https://www.npmjs.com/)
+⋅⋅* [React Js](https://reactjs.org/docs/getting-started.html)
+⋅⋅* [Node Js](https://nodejs.org/en/)
+⋅⋅* [Material UI] (https://material-ui.com/)
 
 #### Authors
 
-** Kerim Kutuk ** - *initial work* - [kutukmu](https://github.com/kutukmu)
+**Kerim Kutuk** - *initial work* - [kutukmu](https://github.com/kutukmu)
